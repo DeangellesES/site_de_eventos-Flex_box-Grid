@@ -1,5 +1,9 @@
 # <h1 align="center">Site de divulgação de eventos desenvolvida para treinar CSS grid e Flexbox, responsivo para todas as telas.</h1>
+<br>
+<h3 align="start">link do site</h3>
 
+<a>https://deangelleses.github.io/site_de_eventos-Flex_box-Grid/</a>
+<br>
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
