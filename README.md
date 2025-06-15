@@ -35,7 +35,7 @@
 <h1>Projeto: Site para Divulgar Eventos</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Aplicação Frot-End de um Site ficticio para divulgar eventos, feito para fins de estudos e prática</p>
+<p>Aplicação Frot-End de um Site ficticio para divulgar eventos, feito para fins de estudos e prática de CSS flex e CSS Grid</p>
 
 <h3>💻<a href="https://deangelleses.github.io/site_de_eventos-Flex_box-Grid/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
