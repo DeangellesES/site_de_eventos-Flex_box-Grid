@@ -42,11 +42,23 @@
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
   <li><b>HTML5</b></li>
-  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
+  <li><b>CSS3</b> - Responsivo</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Divulgar Eventos</li>
   <li>Divulgar Data e Localização dos Eventos</li>
+</ul>
+
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>flex box e display grid utilizados</li>
+  <li>fonte utilizada do google fonts</li>
+  <li>favicon na aba</li>
+  <li>HTMl semântico e bem estruturado</li>
+  <li>responsivo para todas as telas</li>
+  <li>:root na criação de variáveis</li>
+  <li>pseudo classe :hover</li>
+  <li>:nth-child, :nth-child(4)::after:hover, :nth-child(4)::before:hover</li>
 </ul>
